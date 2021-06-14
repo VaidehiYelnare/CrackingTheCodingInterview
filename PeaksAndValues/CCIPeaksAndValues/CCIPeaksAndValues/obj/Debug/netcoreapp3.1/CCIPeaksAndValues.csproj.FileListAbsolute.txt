@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\CCIPeaksAndValues\CCIPeaksAndValues\bin\Debug\netcoreapp3.1\CCIPeaksAndValues.exe
+C:\Users\hp\source\repos\CCIPeaksAndValues\CCIPeaksAndValues\bin\Debug\netcoreapp3.1\CCIPeaksAndValues.deps.json
+C:\Users\hp\source\repos\CCIPeaksAndValues\CCIPeaksAndValues\bin\Debug\netcoreapp3.1\CCIPeaksAndValues.runtimeconfig.json
+C:\Users\hp\source\repos\CCIPeaksAndValues\CCIPeaksAndValues\bin\Debug\netcoreapp3.1\CCIPeaksAndValues.runtimeconfig.dev.json
+C:\Users\hp\source\repos\CCIPeaksAndValues\CCIPeaksAndValues\bin\Debug\netcoreapp3.1\CCIPeaksAndValues.dll
+C:\Users\hp\source\repos\CCIPeaksAndValues\CCIPeaksAndValues\bin\Debug\netcoreapp3.1\CCIPeaksAndValues.pdb
+C:\Users\hp\source\repos\CCIPeaksAndValues\CCIPeaksAndValues\obj\Debug\netcoreapp3.1\CCIPeaksAndValues.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CCIPeaksAndValues\CCIPeaksAndValues\obj\Debug\netcoreapp3.1\CCIPeaksAndValues.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CCIPeaksAndValues\CCIPeaksAndValues\obj\Debug\netcoreapp3.1\CCIPeaksAndValues.AssemblyInfo.cs
+C:\Users\hp\source\repos\CCIPeaksAndValues\CCIPeaksAndValues\obj\Debug\netcoreapp3.1\CCIPeaksAndValues.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CCIPeaksAndValues\CCIPeaksAndValues\obj\Debug\netcoreapp3.1\CCIPeaksAndValues.dll
+C:\Users\hp\source\repos\CCIPeaksAndValues\CCIPeaksAndValues\obj\Debug\netcoreapp3.1\CCIPeaksAndValues.pdb
+C:\Users\hp\source\repos\CCIPeaksAndValues\CCIPeaksAndValues\obj\Debug\netcoreapp3.1\CCIPeaksAndValues.genruntimeconfig.cache
